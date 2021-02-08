@@ -1,1 +1,1 @@
-# gameoflife-campusacademy
+# GameOfLife-JayroBertini
