@@ -1,0 +1,12 @@
+.Board {  
+    position: relative;  
+    margin: 0 auto;  
+    background-color: 
+    rgb(184, 151, 151);
+    background-image: linear-gradient(rgb(12, 12, 12) 1px, transparent 1px),    
+    linear-gradient(90deg, rgb(15, 15, 15) 1px, transparent 1px);
+}
+.Cell {  
+    background: rgb(81, 106, 119);  
+    position: absolute;
+}
